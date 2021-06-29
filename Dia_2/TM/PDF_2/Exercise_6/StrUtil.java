@@ -1,3 +1,5 @@
+package JavaAula2.ensino;
+
 public class StrUtil {
 
 
